@@ -1,1 +1,0 @@
-//boolean - verdadeiro e falso
